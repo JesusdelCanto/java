@@ -1,3 +1,5 @@
-Personal repository to share my libraries and small proyects.
+Repositorio personal con ejemplos y bibliotecas personales.
 
-Feel free to contact me with any request or opinion.
+Si necesitas comprobar mis habilidades con la programación siéntete libre de descargar los ejemplos y analizarlos.
+
+Un saludo.
